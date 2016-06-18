@@ -2,4 +2,5 @@
 
 Light-up a hue in conjunction with your heartbeat.
 
-Want to see how it was made? Well you can! Right [here](https://www.livecoding.tv/mobilpadde/playlists/lKbp2-huebeat-a-hue-arduino-project/).
+Want to see how it was made? Well you can! Right [here](https://www.livecoding.tv/mobilpadde/playlists/lKbp2-huebeat-a-hue-arduino-project/), 
+or you can just watch a short [demo](https://gfycat.com/FaintNeglectedAbyssiniangroundhornbill).
