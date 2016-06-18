@@ -45,7 +45,6 @@ func reader(){
     fmt.Println(val)
 
     err = light.SetBrightness(val)
-    fmt.Println(err)
 
     time.Sleep(1010 * time.Millisecond)
 }
