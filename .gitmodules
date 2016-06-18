@@ -3,4 +3,4 @@
 	url = https://github.com/Collinux/GoHue
 [submodule "src/github.com/tarm/serial"]
 	path = src/github.com/tarm/serial
-	url = https://github.com/term/serial
+	url = https://github.com/tarm/serial
