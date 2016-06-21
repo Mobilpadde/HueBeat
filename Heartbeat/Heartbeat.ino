@@ -7,9 +7,7 @@ void setup(){
 void loop(){
   int val = analogRead(aPin);
 
-  int mappedVal = map(val, 0, 1023, 1, 100);
-
-  Serial.print(String(mappedVal) + ",");
+  Serial.print(String(val) + ",");
 
   delay(500);
 }
